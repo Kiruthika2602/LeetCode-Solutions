@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kiruthika2602/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kiruthika2602/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kiruthika2602/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kiruthika2602/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
